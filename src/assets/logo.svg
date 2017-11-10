@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="484px" height="493px" viewBox="0 0 484 493" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Text</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-3" transform="translate(-5.000000, -1.000000)">
+            <g id="Text" transform="translate(-19.000000, -29.000000)">
+                <g id="I-AM">
+                    <rect id="Rectangle-Copy-2" fill="#000000" transform="translate(266.231751, 148.194512) rotate(-7.000000) translate(-266.231751, -148.194512) " x="34.2317511" y="57.6945116" width="464" height="181"></rect>
+                    <text transform="translate(263.500000, 147.500000) rotate(-7.000000) translate(-263.500000, -147.500000) " font-family="Helvetica" font-size="196" font-weight="normal" letter-spacing="13.4750166" fill="#FFFFFF">
+                        <tspan x="40.4542637" y="220">I AM</tspan>
+                    </text>
+                </g>
+                <g id="WHAT-I" transform="translate(3.000000, 203.000000)">
+                    <rect id="Rectangle-Copy" fill="#000000" transform="translate(263.231751, 97.694512) rotate(8.000000) translate(-263.231751, -97.694512) " x="31.2317511" y="36.6945116" width="464" height="122"></rect>
+                    <text transform="translate(256.551710, 95.269214) rotate(8.000000) translate(-256.551710, -95.269214) " font-family="Arvo" font-size="101" font-weight="normal" letter-spacing="-0.925833046" fill="#FFFFFF">
+                        <tspan x="51.8797466" y="131.269214">WHAT I</tspan>
+                    </text>
+                </g>
+                <g id="CREATE" transform="translate(8.000000, 319.000000)">
+                    <rect id="Rectangle" fill="#000000" transform="translate(258.105316, 118.916439) rotate(-6.000000) translate(-258.105316, -118.916439) " x="26.105316" y="57.9164391" width="464" height="122"></rect>
+                    <text transform="translate(257.894881, 105.961778) rotate(-7.000000) translate(-257.894881, -105.961778) " font-family="Christopherhand" font-size="136" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="62.2952717" y="152.961778">CREATE</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
